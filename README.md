@@ -9,6 +9,13 @@ Thanks goes to these wonderfull people ✨
 <table>
 <tr>
     <td align="center">
+        <a href="https://github.com/Mahefaa">
+            <img src="https://avatars.githubusercontent.com/u/98638690?v=4" width="100;" alt="Mahefaa"/>
+            <br />
+            <sub><b>Mahefa Ny Anjara</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/Harrylepap">
             <img src="https://avatars.githubusercontent.com/u/17026924?v=4" width="100;" alt="Harrylepap"/>
             <br />
@@ -42,15 +49,15 @@ Thanks goes to these wonderfull people ✨
             <br />
             <sub><b>Anjaraniaina RATSIMBAZAFY</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/Sarobidy-23">
             <img src="https://avatars.githubusercontent.com/u/100074450?v=4" width="100;" alt="Sarobidy-23"/>
             <br />
             <sub><b>Sarobidy-23</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/Noums26">
             <img src="https://avatars.githubusercontent.com/u/89130212?v=4" width="100;" alt="Noums26"/>
@@ -70,13 +77,6 @@ Thanks goes to these wonderfull people ✨
             <img src="https://avatars.githubusercontent.com/u/99045924?v=4" width="100;" alt="Dinasoa"/>
             <br />
             <sub><b>Dinasoa</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/Mahefaa">
-            <img src="https://avatars.githubusercontent.com/u/98638690?v=4" width="100;" alt="Mahefaa"/>
-            <br />
-            <sub><b>Mahefa Ny Anjara</b></sub>
         </a>
     </td>
     <td align="center">
@@ -169,7 +169,7 @@ Thanks goes to these wonderfull people ✨
         <a href="https://github.com/njaina">
             <img src="https://avatars.githubusercontent.com/u/98956159?v=4" width="100;" alt="njaina"/>
             <br />
-            <sub><b>njaina</b></sub>
+            <sub><b>Njaina</b></sub>
         </a>
     </td></tr>
 </table>
